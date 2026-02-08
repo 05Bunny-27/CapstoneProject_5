@@ -1,0 +1,7 @@
+<suite name="Capstone Suite">
+    <test name="Cucumber Tests">
+        <classes>
+            <class name="com.capstone.wordpressautomation.runner.TestRunner"/>
+        </classes>
+    </test>
+</suite>
